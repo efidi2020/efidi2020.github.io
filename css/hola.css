@@ -1,0 +1,50 @@
+a { color: blue; /* Color del texto */
+      text-decoration: none; /* Con esto los links no estaran subrayados */
+    }
+
+  a:hover { color: red; 
+            text-decoration: none; 
+          }
+
+  body {
+    background-color: beige; /* color de toda la página */
+    color: black; /* Color del texto */
+    font-family: Arial, Helvetica, sans-serif;  /* la fuente */
+    text-align: center; /* la alineación del texto */
+   }
+
+  footer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    margin-bottom: 0.5rem;
+    margin-top: 3rem;
+   }
+
+  h2 {
+    color: #075AAB; /* Color para el encabezado h2 */
+    /* las margenes para el encabezado h2, bottom es fondo y top es arriba */
+    margin-bottom: 2.5rem;
+    margin-top: 2.5rem;
+   }
+
+  h3 {
+    margin-bottom: 0;
+margin-top: 2rem;
+ }
+
+  h4 {
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  h5 {
+    margin-top: 0.5rem;
+  }
+
+  hr {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+  }
